@@ -1,3 +1,7 @@
-.topnav {
-    background-color: aqua;
+#profile {
+    background-image: url('back.jpeg');
+}
+
+#text {
+    font-family: Arial, Helvetica, sans-serif;
 }
