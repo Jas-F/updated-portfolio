@@ -71,7 +71,6 @@ col-12 {width: 100%;}
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Bootstrap](https://getbootstrap.com/)
-* [Jquery]
 
 ## Deployed Link
 
