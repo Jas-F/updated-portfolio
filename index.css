@@ -37,6 +37,14 @@ col-12 {width: 100%;}
 #resume{
   background-image: url('./back2.jpg');
   background-repeat: no-repeat;
+}
+
+#port{
+  background-image: url('./back2.jpg');
+  background-repeat: no-repeat;
+}
+
+.container{
   max-width: 500px;
   margin: auto;
 }
