@@ -1,7 +1,7 @@
 # Updated Portfolio
 <br>
 ===========
-![Image](liveSite.png)
+![Image](livesite.png)
 
 <br>
 
@@ -28,13 +28,13 @@
 ## Downloadable Resume PDF
 
 ```
-saveBtn.on('click', function (){
-let inputValue=$(this).siblings('.description').val()
-let id=$(this).parent().attr('id')
-localStorage.setItem(id,inputValue)
-});
-
-$('#9 .description').val(localStorage.getItem('9'))
+<div class= 'container'>
+    <div class='row'>
+    <a href="./Dev Resume.pdf">Download Me!</a>
+    </div>
+    <div class='row'>
+    <img src='resume.png' alt='resume'>
+    </div>
 ```
 <br>
 
