@@ -1,4 +1,6 @@
 # Updated Portfolio
+
+### Create an updated portfolio utilizing HTML, Javascript, CSS, and Bootstrap.
 <br>
 ===========
 ![Image](livesite.png)
